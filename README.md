@@ -1,6 +1,6 @@
 # Gravitti
 
-A collaborative platform game in blender. You can find the original BA-WIP thread here: http://blenderartists.org/forum/showthread.php?383965-BGMC-18-Gravitti
+A collaboratively developed platform game, made in blender. You can find the original BA-WIP thread here: http://blenderartists.org/forum/showthread.php?383965-BGMC-18-Gravitti
 
 if you would like to participate in the effort, please ask us here: https://chat.stackexchange.com/rooms/8888/the-renderfarm
 To ask, type either "@GiantCowFilms" or "@ARadish".
