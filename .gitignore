@@ -11,15 +11,6 @@ __pycache__/
 *.manifest
 *.spec
 
-
-# Django stuff:
-*.log
-
-
-# Sphinx documentation
-docs/_build/
-
-
 # Blender backup files
 *.blend1
 *.blend2
@@ -30,4 +21,3 @@ docs/_build/
 
 # Windows system files
 Thumbs.db
-buildings/building-old-1/Normal Map Progress/Bricks.png
